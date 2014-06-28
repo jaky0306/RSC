@@ -19,9 +19,9 @@
 			<div class="row">
 				<div class="span12">
 					<div class="hero-unit">
-						<h3>首页</h3>
+						<h3>邮客首页</h3>
 						<p style="text-indent:2em" class="text-center">
-							注册登录后进行问答，查询。
+							注册，登录后可进行邮件传递。
 						</p>
 						<p class="text-center">
 							<br>

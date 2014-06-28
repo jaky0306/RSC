@@ -8,7 +8,7 @@ echo
             <div class="row">
                 <div class="offset2 span10">
 						<span class="logo_word">
-							<h2><a href="index.php" class="a_no_style">作业</a></h2>
+							<h2><a href="index.php" class="a_no_style">邮差快递系统</a></h2>
 						</span>
                 </div>
             </div>

@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
     <div class="row">
         <div class="span12">
             <div class="hero-unit">
-                <h3>注册:</h3>
+                <h3>邮客注册:</h3>
                 <?php
                 if ($registerSuccessFlag) {
                     ?>
@@ -89,19 +89,6 @@ if (isset($_POST['submit'])) {
         </div>
     </div>
 </div>
-
-<script type="text/javascript">
-
-    $(function () {
-
-        // 正则表达式
-
-        var nameReg = /^[a-zA-Z]+\w{3,7}/g;
-        var pswReg = /\w{5,10}/g;
-
-    });
-
-</script>
 
 <?php
 include_once 'footer.php';

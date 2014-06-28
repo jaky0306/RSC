@@ -30,7 +30,7 @@
     <div class="row">
         <div class="span12">
             <div class="hero-unit">
-                <h3>登录:</h3>
+                <h3>邮客登录:</h3>
                 <?php
                     if($loginSuccessFlag==false){
                 ?>

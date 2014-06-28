@@ -8,7 +8,7 @@ echo
 <html>
 <head>
     <meta charset="utf-8">
-    <title>作业</title>
+    <title>邮差快递</title>
     <!--框架-->
     <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="src/bootstrap.min.js"></script>
